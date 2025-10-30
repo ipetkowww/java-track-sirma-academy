@@ -38,6 +38,4 @@ public class Calculator {
     private static double divide(double firstNumber, double secondNumber) {
         return firstNumber / secondNumber;
     }
-
-
 }
